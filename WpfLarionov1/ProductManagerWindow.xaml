@@ -53,16 +53,16 @@
             <TextBlock Text="Добавление продуктов" FontSize="20" FontWeight="Bold" Margin="0,0,0,10" Width="232" HorizontalAlignment="Center" Foreground="#007ACC"/>
 
             <Border CornerRadius="5" BorderBrush="#007ACC" BorderThickness="1" Margin="0,0,0,10" Width="202">
-                <TextBox Name="NameTextBox" Width="200" Height="35" ToolTip="Enter product name" 
+                <TextBox Name="NameTextBox" Width="200" Height="26" ToolTip="Enter product name" 
                          Background="#FFFFFF" Padding="5"/>
             </Border>
 
             <Border CornerRadius="5" BorderBrush="#007ACC" BorderThickness="1" Margin="0,0,0,10" Width="201">
-                <TextBox Name="PriceTextBox" Width="200" Height="35" ToolTip="Enter product price" 
-                         Background="#FFFFFF" Padding="5"/>
+                <TextBox Name="PriceTextBox" Width="200" Height="26" ToolTip="Enter product price" 
+                         Background="#FFFFFF" Padding="5" Margin="0,0,-1,0"/>
             </Border>
 
-            <Button Name="AddProductButton" Width="200" Height="35" Margin="0,0,0,20" Click="AddProductButton_Click" 
+            <Button Name="AddProductButton" Width="200" Height="25" Margin="0,0,0,20" Click="AddProductButton_Click" 
                     Style="{StaticResource RoundedButtonStyle}">
                 Add Product
             </Button>
