@@ -22,3 +22,4 @@ B:\C# проекты\WpfLarionov1\WpfLarionov1\obj\Debug\net8.0-windows\ProductM
 B:\C# проекты\WpfLarionov1\WpfLarionov1\obj\Debug\net8.0-windows\MainWindow.g.cs
 B:\C# проекты\WpfLarionov1\WpfLarionov1\obj\Debug\net8.0-windows\WpfLarionov1_MarkupCompile.lref
 B:\C# проекты\WpfLarionov1\WpfLarionov1\obj\Debug\net8.0-windows\MainWindow.baml
+B:\C# проекты\WpfLarionov1\WpfLarionov1\obj\Debug\net8.0-windows\WpfLarionov1.sourcelink.json
